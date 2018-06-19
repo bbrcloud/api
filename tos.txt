@@ -95,6 +95,7 @@
 （6）用户使用“Baacloud”时提供的个人信息，“Baacloud”将严格履行相关保密约定。
 
 更多关于隐私的详细内容请查看隐私声明。
+https://raw.githubusercontent.com/bbrcloud/api/master/privacy.txt
 
 十、退款
 如果您希望申请退款，您可以在购买Baacloud服务的72小时内与使用流量不超过2G内可以联系我们退款，我们希望您对我们的服务完全满意。Baacloud保留随时出于任何原因暂停，终止或拒绝向任何人提供服务的权利。因违反我们的服务条款而被删除的帐户将不予退款。
